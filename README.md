@@ -7,7 +7,7 @@
 ### db name = "task3"
 
 
-## To setup Task5 locally:\
+## To setup Task4 locally:\
 ### db server name = "localhost"
 ### db username = "root"
 ### db password = ""
