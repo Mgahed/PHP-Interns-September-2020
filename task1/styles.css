@@ -1,0 +1,199 @@
+body{
+    background-color: #101010;
+}
+
+.container {
+    padding-top: 30px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    align-content: center;
+}
+
+.backgroundphoto {
+    background-position: center;
+    min-height: 500px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    z-index: -1;
+    position: absolute;
+    width: 100%;
+}
+
+.ul {
+    width: 60%;
+    list-style-type: none;
+    margin: 0;
+    padding: 20;
+    overflow: hidden;
+    background-color:#202020;
+    border: none;
+    border-left: 6px solid #d54ab6;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+.active {
+    background: #333333;
+}
+
+
+
+.photop{
+    margin-top: 50px;
+    font-size: 60px;
+    color: antiquewhite;
+    }
+
+
+
+
+.container1{
+    padding-top: 450px;
+    padding-left: 7%;
+}
+.first {
+    color: white;
+    font-size: 25px;
+    height: 50%;
+    max-height: 300px;
+    width: 20%;
+    padding-left: 20px;
+    padding-right: 30px;
+    position: relative;
+    bottom: 40px;
+    transition: all 0.4s ease-in;
+    background-color: #c14000;
+    min-width: 300px;
+}
+
+.second {
+    margin-left: 10%;
+    color: white;
+    font-size: 25px;
+    height: 50%;
+    max-height: 300px;
+    width: 20%;
+    padding-left: 20px;
+    padding-right: 30px;
+    position: relative;
+    bottom: 40px;
+    transition: all 0.4s ease-in;
+    background-color: #009988;
+    min-width: 300px;
+}
+
+.third{
+    margin-left: 10%;
+    color: white;
+    font-size: 25px;
+    height: 50%;
+    max-height: 300px;
+    width: 20%;
+    padding-left: 20px;
+    padding-right: 30px;
+    position: relative;
+    bottom: 40px;
+    transition: all 0.4s ease-in;
+    background-color:#ffa500;
+    padding-left: 50px;
+    min-width: 300px;
+}
+
+
+
+.business {
+    padding-top: 400px;
+}
+
+.container2 {
+    background: #191919;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 60%;
+}
+
+.imgbusiness{
+    width: 100%;
+}
+
+.businesstitle{
+    font-size: 50px;
+    color: white;
+}
+
+.businesscontent{
+    float: left;
+    font-size: 25px;
+    color: rgb(119, 114, 114);
+}
+
+.btn {
+    margin-top: 30px;
+    display: inline-block;
+    background: transparent;
+    border: 2px solid #fff;
+    border-radius: 2px;
+    color: #fff;
+    padding: 12px 18px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.recentprojects{
+    padding-top: 100px;
+}
+
+.recentprojecttitle{
+    color: #fff;
+    font-size: 60px;
+}
+
+.recentprojectcontent{
+    color: rgb(119, 114, 114);
+}
+
+.container3 {
+    background: #191919;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 60%;
+}
+
+.first3img{
+    width: 33.03%;
+}
+
+.second2img{
+    width: 24.62%;
+}
+
+.circle {
+    float: left;
+    font-size: 40px;
+    color: white;
+    height: 45px;
+    width: 45px;
+    background-color: #d54ab6;
+    border-radius: 50%;
+  }
+
+  .onetel{
+ padding-left: 55px;
+margin-top: 0.00px;
+  }
